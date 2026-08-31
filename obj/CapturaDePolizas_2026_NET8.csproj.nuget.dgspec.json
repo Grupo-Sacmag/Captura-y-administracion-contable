@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\desarrollo.conta\\Desktop\\ReposGitHub\\CAP + AUX C# 2026\\CapturaDePolizas_2026_NET8.csproj": {}
+    "C:\\Users\\desarrollo.conta\\Desktop\\GITHUB\\C#\\Cap + Aux C# .NET8\\CapturaDePolizas_2026_NET8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\desarrollo.conta\\Desktop\\ReposGitHub\\CAP + AUX C# 2026\\CapturaDePolizas_2026_NET8.csproj": {
+    "C:\\Users\\desarrollo.conta\\Desktop\\GITHUB\\C#\\Cap + Aux C# .NET8\\CapturaDePolizas_2026_NET8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\desarrollo.conta\\Desktop\\ReposGitHub\\CAP + AUX C# 2026\\CapturaDePolizas_2026_NET8.csproj",
+        "projectUniqueName": "C:\\Users\\desarrollo.conta\\Desktop\\GITHUB\\C#\\Cap + Aux C# .NET8\\CapturaDePolizas_2026_NET8.csproj",
         "projectName": "CapturaDePolizas_2026_NET8",
-        "projectPath": "C:\\Users\\desarrollo.conta\\Desktop\\ReposGitHub\\CAP + AUX C# 2026\\CapturaDePolizas_2026_NET8.csproj",
+        "projectPath": "C:\\Users\\desarrollo.conta\\Desktop\\GITHUB\\C#\\Cap + Aux C# .NET8\\CapturaDePolizas_2026_NET8.csproj",
         "packagesPath": "C:\\Users\\desarrollo.conta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\desarrollo.conta\\Desktop\\ReposGitHub\\CAP + AUX C# 2026\\obj\\",
+        "outputPath": "C:\\Users\\desarrollo.conta\\Desktop\\GITHUB\\C#\\Cap + Aux C# .NET8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net8.0-windows": {
@@ -82,7 +82,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

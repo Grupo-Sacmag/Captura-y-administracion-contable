@@ -7,9 +7,14 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace CapturaDePolizas_2026_NET8.Repositories
-{
+{    
     public interface ICatalogoRepository
-    {
+    {        
+        IReadOnlyList<CuentaAuxiliarDbDto> ObtenerCuentasParaAuxiliares();
+        IReadOnlyList<SubcuentaAuxiliarDbDto> ObtenerSubcuentasParaAuxiliares(int cuentaId);
+        ResultadoAuxiliarDbDto ObtenerMovimientosParaAuxiliar(int cuentaId, int? subcuentaId, int mesProceso = 0);
+        PolizaAuxiliarDbDto? ObtenerPolizaParaAuxiliar(int polizaId);
+        bool PuedeConectarBaseDatos();
         bool ValidarCuenta(string cuentaId, out string nombreCuenta);
         bool ValidarSubcuenta(string subcuentaId, string cuentaPadreId, out string nombreSubcuenta);
         int ObtenerSiguienteFolio();

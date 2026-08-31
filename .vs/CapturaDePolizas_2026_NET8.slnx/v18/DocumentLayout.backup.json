@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\desarrollo.conta\\Desktop\\ReposGitHub\\CAP \u002B AUX C# 2026\\",
+  "WorkspaceRootPath": "C:\\Users\\desarrollo.conta\\Desktop\\GITHUB\\Codigos C# Separados\\Cap \u002B Aux C# .NET8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B8E396D-FEC2-F8AC-B904-EAF343AEFFD7}|CapturaDePolizas_2026_NET8.csproj|c:\\users\\desarrollo.conta\\desktop\\reposgithub\\cap \u002B aux c# 2026\\formpolizadiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B8E396D-FEC2-F8AC-B904-EAF343AEFFD7}|CapturaDePolizas_2026_NET8.csproj|solutionrelative:formpolizadiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B8E396D-FEC2-F8AC-B904-EAF343AEFFD7}|CapturaDePolizas_2026_NET8.csproj|c:\\users\\desarrollo.conta\\desktop\\github\\codigos c# separados\\cap \u002B aux c# .net8\\data\\empresadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E396D-FEC2-F8AC-B904-EAF343AEFFD7}|CapturaDePolizas_2026_NET8.csproj|solutionrelative:data\\empresadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B8E396D-FEC2-F8AC-B904-EAF343AEFFD7}|CapturaDePolizas_2026_NET8.csproj|c:\\users\\desarrollo.conta\\desktop\\reposgithub\\cap \u002B aux c# 2026\\formpolizadiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1B8E396D-FEC2-F8AC-B904-EAF343AEFFD7}|CapturaDePolizas_2026_NET8.csproj|solutionrelative:formpolizadiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1B8E396D-FEC2-F8AC-B904-EAF343AEFFD7}|CapturaDePolizas_2026_NET8.csproj|c:\\users\\desarrollo.conta\\desktop\\github\\codigos c# separados\\cap \u002B aux c# .net8\\formauxiliar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E396D-FEC2-F8AC-B904-EAF343AEFFD7}|CapturaDePolizas_2026_NET8.csproj|solutionrelative:formauxiliar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B8E396D-FEC2-F8AC-B904-EAF343AEFFD7}|CapturaDePolizas_2026_NET8.csproj|c:\\users\\desarrollo.conta\\desktop\\reposgithub\\cap \u002B aux c# 2026\\formpolizadiario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B8E396D-FEC2-F8AC-B904-EAF343AEFFD7}|CapturaDePolizas_2026_NET8.csproj|solutionrelative:formpolizadiario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B8E396D-FEC2-F8AC-B904-EAF343AEFFD7}|CapturaDePolizas_2026_NET8.csproj|C:\\Users\\desarrollo.conta\\Desktop\\GITHUB\\Codigos C# Separados\\Cap \u002B Aux C# .NET8\\formauxiliar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B8E396D-FEC2-F8AC-B904-EAF343AEFFD7}|CapturaDePolizas_2026_NET8.csproj|solutionrelative:formauxiliar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E396D-FEC2-F8AC-B904-EAF343AEFFD7}|CapturaDePolizas_2026_NET8.csproj|c:\\users\\desarrollo.conta\\desktop\\github\\codigos c# separados\\cap \u002B aux c# .net8\\business\\catalogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E396D-FEC2-F8AC-B904-EAF343AEFFD7}|CapturaDePolizas_2026_NET8.csproj|solutionrelative:business\\catalogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E396D-FEC2-F8AC-B904-EAF343AEFFD7}|CapturaDePolizas_2026_NET8.csproj|c:\\users\\desarrollo.conta\\desktop\\github\\codigos c# separados\\cap \u002B aux c# .net8\\business\\icatalogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8E396D-FEC2-F8AC-B904-EAF343AEFFD7}|CapturaDePolizas_2026_NET8.csproj|solutionrelative:business\\icatalogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,48 +29,75 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 43,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormPolizaDiario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\desarrollo.conta\\Desktop\\ReposGitHub\\CAP \u002B AUX C# 2026\\FormPolizaDiario.cs",
-              "RelativeDocumentMoniker": "FormPolizaDiario.cs",
-              "ToolTip": "C:\\Users\\desarrollo.conta\\Desktop\\ReposGitHub\\CAP \u002B AUX C# 2026\\FormPolizaDiario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FormPolizaDiario.cs [Dise\u00F1o]",
+              "DocumentIndex": 4,
+              "Title": "ICatalogoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo.conta\\Desktop\\GITHUB\\Codigos C# Separados\\Cap \u002B Aux C# .NET8\\Business\\ICatalogoRepository.cs",
+              "RelativeDocumentMoniker": "Business\\ICatalogoRepository.cs",
+              "ToolTip": "C:\\Users\\desarrollo.conta\\Desktop\\GITHUB\\Codigos C# Separados\\Cap \u002B Aux C# .NET8\\Business\\ICatalogoRepository.cs",
+              "RelativeToolTip": "Business\\ICatalogoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T00:49:54.195Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-08-26T23:53:29.812Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormPolizaDiario.cs",
-              "DocumentMoniker": "C:\\Users\\desarrollo.conta\\Desktop\\ReposGitHub\\CAP \u002B AUX C# 2026\\FormPolizaDiario.cs",
-              "RelativeDocumentMoniker": "FormPolizaDiario.cs",
-              "ToolTip": "C:\\Users\\desarrollo.conta\\Desktop\\ReposGitHub\\CAP \u002B AUX C# 2026\\FormPolizaDiario.cs",
-              "RelativeToolTip": "FormPolizaDiario.cs",
-              "ViewState": "AgIAABgBAAAAAAAAAAAQwCwBAAANAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CatalogoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo.conta\\Desktop\\GITHUB\\Codigos C# Separados\\Cap \u002B Aux C# .NET8\\Business\\CatalogoRepository.cs",
+              "RelativeDocumentMoniker": "Business\\CatalogoRepository.cs",
+              "ToolTip": "C:\\Users\\desarrollo.conta\\Desktop\\GITHUB\\Codigos C# Separados\\Cap \u002B Aux C# .NET8\\Business\\CatalogoRepository.cs",
+              "RelativeToolTip": "Business\\CatalogoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-13T23:37:31.779Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T22:18:19.462Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FormPolizaDiario.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\desarrollo.conta\\Desktop\\ReposGitHub\\CAP \u002B AUX C# 2026\\FormPolizaDiario.Designer.cs",
-              "RelativeDocumentMoniker": "FormPolizaDiario.Designer.cs",
-              "ToolTip": "C:\\Users\\desarrollo.conta\\Desktop\\ReposGitHub\\CAP \u002B AUX C# 2026\\FormPolizaDiario.Designer.cs",
-              "RelativeToolTip": "FormPolizaDiario.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Title": "FormAuxiliar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\desarrollo.conta\\Desktop\\GITHUB\\Codigos C# Separados\\Cap \u002B Aux C# .NET8\\FormAuxiliar.cs",
+              "RelativeDocumentMoniker": "FormAuxiliar.cs",
+              "ToolTip": "C:\\Users\\desarrollo.conta\\Desktop\\GITHUB\\Codigos C# Separados\\Cap \u002B Aux C# .NET8\\FormAuxiliar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormAuxiliar.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T00:43:15.299Z",
-              "IsPinned": true,
+              "WhenOpened": "2026-08-26T23:55:18.645Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAuxiliar.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo.conta\\Desktop\\GITHUB\\Codigos C# Separados\\Cap \u002B Aux C# .NET8\\FormAuxiliar.cs",
+              "RelativeDocumentMoniker": "FormAuxiliar.cs",
+              "ToolTip": "C:\\Users\\desarrollo.conta\\Desktop\\GITHUB\\Codigos C# Separados\\Cap \u002B Aux C# .NET8\\FormAuxiliar.cs",
+              "RelativeToolTip": "FormAuxiliar.cs",
+              "ViewState": "AgIAAPwDAAAAAAAAAAAAwBAEAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T23:55:20.499Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpresaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\desarrollo.conta\\Desktop\\GITHUB\\Codigos C# Separados\\Cap \u002B Aux C# .NET8\\Data\\EmpresaDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\EmpresaDbContext.cs",
+              "ToolTip": "C:\\Users\\desarrollo.conta\\Desktop\\GITHUB\\Codigos C# Separados\\Cap \u002B Aux C# .NET8\\Data\\EmpresaDbContext.cs",
+              "RelativeToolTip": "Data\\EmpresaDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA6wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T00:43:48.445Z",
               "EditorCaption": ""
             }
           ]
