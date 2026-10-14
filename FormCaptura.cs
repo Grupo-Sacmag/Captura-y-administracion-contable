@@ -370,7 +370,7 @@ public partial class FormCaptura : Form
         {
             DataTable datos = _catalogoRepository.ObtenerTablaCuentas();
 
-            using FormVerCuentas form = new(datos);
+            using FormVerCuentas form = new(datos, _catalogoRepository);
             form.ShowDialog(this);
         }
         catch (Exception ex)
@@ -446,7 +446,7 @@ public partial class FormCaptura : Form
 
             DataTable datos = _catalogoRepository.ObtenerEstadosFinancieros(incluirCuentasOrden);
 
-            using FormReporteBalance form = new(datos);
+            using FormReporteBalance form = new(datos, _catalogoRepository);
             form.ShowDialog(this);
         }
         catch (Exception ex)
